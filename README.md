@@ -1,7 +1,9 @@
 # Nonlinear Dynamic Economic Systems (NDES): Theory and Applications 
 Unofficial GitHub repository for sharing the computational materials covered during the seminars. 
 
-**[Manual for working with this repository](/collaboration_manual.md)** 
+**[Manual for working with this repository](/collaboration_manual.md)**
+
+**[Some ideas that might make collaboration easier](/some_of_best_practices.md)**
 
 (Tentative) **schedule**:
 
@@ -22,4 +24,3 @@ Unofficial GitHub repository for sharing the computational materials covered dur
 (b) [An Introduction to Statistical Learning](https://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) by James, Witten, Hastie & Tibshirani
 
 (c) [Machine learning](https://www.springer.com/us/book/9783319949888) by Mello & Ponti
-
