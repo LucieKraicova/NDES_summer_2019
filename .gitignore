@@ -1,0 +1,10 @@
+# pycache
+__pycache__/
+*.py[cod]
+
+# Jupyter notebook checkpoints
+.ipynb_checkpoints/
+
+# Unit test and coverage reports
+.coverage
+.cache
