@@ -9,12 +9,12 @@ Unofficial GitHub repository for sharing the computational materials covered dur
 
 |Date   | Team    | Topic               |
 |-------|---------|---------------------|
-|Feb 19 | FC & JK | (a) Ch.2: Overview  |
-|Feb 28 | LH & MN | (a) Ch.3: Shrinkage |
-|Mar 20 | NF & MH | (a) Ch.4: "Linear" Classification|
-|Apr 3  |         |                     |
-|Apr 17 |         |                     |  
-|May 1  |         |                     |
+|Feb 19 | MH      | Git Intro          |
+|Feb 28 | FC & JK | (a) Ch.2: Overview |
+|Mar 20 | LH & MN | (a) Ch.3: Shrinkage|
+|Apr 3  | NF & MH | (a) Ch.4: "Linear" Classification|
+|Apr 17 | KCH & LK| (a) Ch.6: Kernel Smoothing                  |  
+|May 1  | MH & ?  | (a) Ch.7: Model Assessment and Selection    |
 
 
 **Reading**: 
